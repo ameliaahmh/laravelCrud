@@ -44,7 +44,7 @@
                           <td>{{$siswa->id}}</td>
                           <td>{{$siswa->nama_siswa}}</td>
                           <td>{{$siswa->jenis_kelamin}}</td>
-                          <td>{{$siswa->alamat}}</td>
+                          <td>{{$siswa->agama}}</td>
                           <td>{{$siswa->tempat_lahir}}, {{$siswa->tanggal_lahir}}</td>
                           <td>{{$siswa->alamat}}</td>         
                           <td>
